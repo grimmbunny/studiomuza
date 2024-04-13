@@ -155,7 +155,7 @@ Primary use: Multipurpose Template
 61. Intro page.
 -------------------------------------------------------------------*/
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 /* ==============================
    Icon fonts
    ============================== */
@@ -610,7 +610,7 @@ video {
     -moz-transition: none !important;
 }
 
-@media not all and (min-resolution:.001dpcm) {
+/* @media not all and (min-resolution:.001dpcm) {
     @media {
 
         .parallax-mousemove,
@@ -618,7 +618,8 @@ video {
             transition: none !important;
         }
     }
-}
+ } */
+
 
 [data-rellax-x] {
     transition: transform 0.25s var(--ease-out-short);
@@ -1561,7 +1562,7 @@ hr.thick {
 }
 
 .link-hover-anim:hover .link-strong-hovered {
-    ;
+
     opacity: 1;
     transform: translateY(0) translateZ(0.001px) skewY(0);
 }
@@ -2425,7 +2426,7 @@ textarea:-webkit-autofill:focus {
 }
 
 .light-content .form select:not([multiple]) {
-    background-color: transparent: !important;
+    background-color: transparent !important;
     background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="9px" height="5px"><path fill-rule="evenodd" fill="rgb(255, 255, 255)" d="M8.886,0.631 L8.336,0.117 C8.263,0.049 8.178,0.015 8.083,0.015 C7.988,0.015 7.903,0.049 7.830,0.117 L4.506,3.155 L1.183,0.117 C1.109,0.049 1.025,0.015 0.930,0.015 C0.834,0.015 0.750,0.049 0.677,0.117 L0.127,0.631 C0.053,0.699 0.017,0.778 0.017,0.867 C0.017,0.956 0.053,1.035 0.127,1.103 L4.253,4.892 C4.327,4.960 4.411,4.994 4.506,4.994 C4.602,4.994 4.686,4.960 4.759,4.892 L8.886,1.103 C8.959,1.035 8.996,0.956 8.996,0.867 C8.996,0.778 8.959,0.699 8.886,0.631 L8.886,0.631 Z"/></svg>');
     background-repeat: no-repeat;
     background-position: right 8px center;
