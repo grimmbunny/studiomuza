@@ -1,11 +1,5 @@
 @charset "utf-8";
 /*------------------------------------------------------------------
-
-
-
-/*------------------------------------------------------------------
-[Table of contents]
-
 1. Icon fonts.
 2. Variables.
 3. Common styles.
@@ -167,9 +161,9 @@
    Icon fonts
    ============================== */
 
-@import url("icons.css");
-@import url("icomoon.css");
-@import url("font-awesome-brands.css");
+@import url("/css/icons.css");
+@import url("/css/icomoon.css");
+@import url("/css/font-awesome-brands.css");
 
 
 
