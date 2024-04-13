@@ -957,7 +957,7 @@ mark {
     bottom: -0.4em;
     width: 100%;
     height: 0.5357em;
-    background-image: url(../images/demo-corporate/mark-decoration-1.svg);
+    background-image: url(../images/about-image-1.jpg);
     background-repeat: no-repeat;
     background-size: auto 0.25892em;
     background-position: 0 0;
@@ -5908,7 +5908,7 @@ svg:hover {
     position: absolute;
     bottom: -150px;
     right: 100px;
-    color: var(-color-dark-1);
+    color: var(--color-dark-1);
     pointer-events: none;
 }
 
@@ -5924,7 +5924,7 @@ svg:hover {
     position: absolute;
     bottom: 50px;
     right: -55px;
-    color: var(-color-dark-1);
+    color: var(--color-dark-1);
     pointer-events: none;
 }
 
@@ -5932,7 +5932,7 @@ svg:hover {
     position: absolute;
     top: -43px;
     right: -82px;
-    color: var(-color-dark-1);
+    color: var(--color-dark-1);
     pointer-events: none;
 }
 
@@ -5940,7 +5940,7 @@ svg:hover {
     position: absolute;
     top: -25px;
     left: -60px;
-    color: var(-color-dark-1);
+    color: var(--color-dark-1);
     pointer-events: none;
 }
 
@@ -5948,7 +5948,7 @@ svg:hover {
     position: absolute;
     top: -40px;
     left: -80px;
-    color: var(-color-dark-1);
+    color: var(--color-dark-1);
     pointer-events: none;
 }
 
@@ -5956,7 +5956,7 @@ svg:hover {
     position: absolute;
     top: -75px;
     left: -60px;
-    color: var(-color-dark-1);
+    color: var(--color-dark-1);
     pointer-events: none;
 }
 
@@ -5964,7 +5964,7 @@ svg:hover {
     position: absolute;
     bottom: -50px;
     right: -82px;
-    color: var(-color-dark-1);
+    color: var(--color-dark-1);
     pointer-events: none;
 }
 
@@ -5973,7 +5973,7 @@ svg:hover {
     bottom: 0;
     left: 0;
     transform: translateX(-100%);
-    color: var(-color-dark-1);
+    color: var(--color-dark-1);
     pointer-events: none;
 }
 
@@ -6053,7 +6053,7 @@ svg:hover {
     position: absolute;
     top: 10px;
     left: 10px;
-    color: var(-color-dark-1);
+    color: var(--color-dark-1);
     pointer-events: none;
 }
 
@@ -6061,7 +6061,7 @@ svg:hover {
     position: absolute;
     bottom: 10px;
     right: 10px;
-    color: var(-color-dark-1);
+    color: var(--color-dark-1);
     pointer-events: none;
 }
 
@@ -6095,7 +6095,7 @@ svg:hover {
     position: absolute;
     bottom: -50px;
     right: -73px;
-    color: var(-color-dark-1);
+    color: var(--color-dark-1);
     pointer-events: none;
 }
 

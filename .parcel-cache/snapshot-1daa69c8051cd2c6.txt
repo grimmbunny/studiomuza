@@ -1,4 +1,4 @@
-6247
+6243
 67F:\muza\node_modules\@parcel\optimizer-svgo\node_modules\css-select133574440118226593 1
 37F:\muza\node_modules\lmdb\binding.gyp133574440146230155 0
 62F:\muza\node_modules\@babel\highlight\node_modules\ansi-styles133574440087545666 1
@@ -41,7 +41,7 @@
 66F:\muza\node_modules\caniuse-lite\data\features\iframe-seamless.js133574440166910183 0
 46F:\muza\node_modules\resolve-from\package.json133574440082330439 0
 60F:\muza\node_modules\utility-types\dist\utility-types.js.map133574440102087417 0
-11F:\muza\css133574441149674511 1
+11F:\muza\css133574454721789629 1
 75F:\muza\node_modules\caniuse-lite\data\features\wasm-nontrapping-fptoint.js133574440173530971 0
 73F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib133574440135558816 1
 34F:\muza\node_modules\react-refresh133574440098447153 1
@@ -78,7 +78,7 @@
 39F:\muza\node_modules\lmdb\src\windows.c133574440142561870 0
 56F:\muza\node_modules\@swc\helpers\_\_update\package.json133574440163810824 0
 50F:\muza\node_modules\js-yaml\lib\schema\default.js133574440092434538 0
-18F:\muza\index.html133574449795899020 0
+18F:\muza\index.html133574459614416968 0
 20F:\muza\node_modules133574440189632514 1
 67F:\muza\node_modules\csso\node_modules\css-tree\lib\walker\index.js133574440155553756 0
 112F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133574440117321771 0
@@ -95,7 +95,7 @@
 65F:\muza\node_modules\css-tree\cjs\syntax\node\GeneralEnclosed.cjs133574440130173485 0
 52F:\muza\node_modules\@parcel\utils\test\input\config133574440146966041 1
 23F:\muza\webfonts\zodiak133574427020367171 1
-20F:\muza\package.json133574440635442621 0
+20F:\muza\package.json133574456797708819 0
 51F:\muza\node_modules\@lmdb\lmdb-win32-x64\README.md133574440086174529 0
 50F:\muza\node_modules\svgo\plugins\removeDoctype.js133574440139766277 0
 83F:\muza\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\mergePaths.js133574440121048845 0
@@ -5742,7 +5742,6 @@
 110F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133574440144711754 0
 53F:\muza\node_modules\@parcel\core\src\public\Asset.js133574440131231892 0
 94F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Ratio.js133574440144898313 0
-27F:\muza\css\ytp-regular.ttf130821165166120000 0
 93F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Rule.js133574440145008366 0
 97F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Selector.js133574440145162442 0
 101F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\SelectorList.js133574440145478012 0
@@ -6241,8 +6240,5 @@
 35F:\muza\css\font-awesome-brands.css133365787037550713 0
 28F:\muza\css\owl.carousel.css130504214443350000 0
 25F:\muza\css\splitting.css132495647160780000 0
-21F:\muza\css\style.css133574448113766552 0
-27F:\muza\css\ytp-regular.eot130821165165910000 0
-28F:\muza\css\ytp-regular.woff130821165166400000 0
-24F:\muza\css\YTPlayer.css133574448404967398 0
+21F:\muza\css\style.css133574459303724076 0
 29F:\muza\.vscode\settings.json133574341088032039 0
