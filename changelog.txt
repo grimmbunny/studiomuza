@@ -1,0 +1,49 @@
+##############################################################
+
+# Changelog
+# Resonance - Multipurpose One/Multi Page Template
+
+##############################################################
+
+v.1.0.5 – 25 March 2024
+
+- small issue with select in dark mode was fixed:
+--- file /css/style.css (lines 1995-2007) was updated
+
+##############################################################
+
+v.1.0.4 – 21 February 2024
+
+- small issue with transparent menu bar was fixed:
+--- file /js/all.js (lines 9-11) was updated
+
+##############################################################
+
+v.1.0.3 – 26 November 2023
+
+- alignment of the image placeholder in Youtube background video was fixed:
+--- file /css/style.css (lines 4211) was updated
+
+##############################################################
+v.1.0.2 – 07 November 2023
+
+- small issue with textarea in dark version was fixed:
+--- file /css/style.css (lines 2139) was updated
+
+- small issue with contact form (SMTP method) was fixed:
+--- file /php/contact_me_smtp.php was updated
+
+##############################################################
+
+v.1.0.1 – 24 October 2023
+
+- small issue with missing semicolon was fixed:
+--- file /css/style.css (lines 3891-3892) was updated
+
+##############################################################
+
+v.1.0 – 25 September 2023
+
+- initial
+
+##############################################################
