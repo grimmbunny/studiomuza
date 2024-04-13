@@ -5845,7 +5845,7 @@ svg:hover {
     text-decoration: none;
     letter-spacing: 1px;
     opacity: .72;
-    transition: all 0.17s var(ease-default);
+    transition: all 0.17s var(--ease-default);
 }
 
 .text-link:after {
@@ -5892,7 +5892,7 @@ svg:hover {
     position: absolute;
     bottom: -50px;
     left: -73px;
-    color: var(-color-dark-1);
+    color: var(--color-dark-1);
     pointer-events: none;
 }
 
