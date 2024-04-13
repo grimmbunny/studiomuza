@@ -1,4 +1,4 @@
-6208
+6247
 67F:\muza\node_modules\@parcel\optimizer-svgo\node_modules\css-select133574440118226593 1
 37F:\muza\node_modules\lmdb\binding.gyp133574440146230155 0
 62F:\muza\node_modules\@babel\highlight\node_modules\ansi-styles133574440087545666 1
@@ -46,7 +46,7 @@
 73F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib133574440135558816 1
 34F:\muza\node_modules\react-refresh133574440098447153 1
 48F:\muza\node_modules\css-select\lib\compile.d.ts133574440140028177 0
-14F:\muza\images133574432311755209 1
+14F:\muza\images133574443083349536 1
 27F:\muza\webfonts\icons.woff133189820926862955 0
 57F:\muza\images\intro\intro-sections\gradient-bg-video.jpg133380404845915598 0
 46F:\muza\node_modules\csso\lib\replace\index.js133574440141149188 0
@@ -172,6 +172,7 @@
 65F:\muza\node_modules\caniuse-lite\data\features\css-exclusions.js133574440152100715 0
 26F:\muza\webfonts\icons.ttf133189820926862955 0
 24F:\muza\webfonts\satoshi133574427020307157 1
+43F:\muza\images\demo-elegant\team\team-3.jpg133384061252513802 0
 74F:\muza\node_modules\caniuse-lite\data\features\intersectionobserver-v2.js133574440167520919 0
 60F:\muza\node_modules\caniuse-lite\data\features\vibration.js133574440173270454 0
 55F:\muza\node_modules\node-addon-api\tools\check-napi.js133574440103667280 0
@@ -527,7 +528,7 @@
 39F:\muza\node_modules\dom-serializer\lib133574440108244302 1
 75F:\muza\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js133574440168914477 0
 33F:\muza\node_modules\import-fresh133574440088750839 1
-23F:\muza\css\icomoon.css133364938117629777 0
+23F:\muza\css\icomoon.css133574444362110141 0
 32F:\muza\node_modules\is-arrayish133574440093019103 1
 54F:\muza\node_modules\@swc\helpers\src\_ts_decorate.mjs133574440165437995 0
 37F:\muza\node_modules\semver\functions133574440129580588 1
@@ -716,6 +717,7 @@
 49F:\muza\node_modules\entities\lib\encode.d.ts.map133574440113392876 0
 35F:\muza\node_modules\to-regex-range133574440087390190 1
 77F:\muza\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133574440134992496 0
+49F:\muza\images\demo-elegant\portfolio\1-large.jpg133384060355304329 0
 42F:\muza\node_modules\resolve-from\index.js133574440085283947 0
 49F:\muza\images\full-width-images\section-bg-6.jpg133384766215725491 0
 81F:\muza\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\data\patch.json133574440148141642 0
@@ -888,9 +890,11 @@
 70F:\muza\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133574440141892053 0
 55F:\muza\node_modules\@swc\helpers\src\_create_super.mjs133574440164910843 0
 45F:\muza\node_modules\entities\lib\decode.d.ts133574440117200704 0
+38F:\muza\images\demo-elegant\blog\6.jpg133384057579279984 0
 68F:\muza\node_modules\caniuse-lite\data\features\createimagebitmap.js133574440146612095 0
 44F:\muza\node_modules\htmlnano\docs\README.md133574440140731189 0
 69F:\muza\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133574440115667687 0
+43F:\muza\images\demo-elegant\portfolio\3.jpg133384059548671036 0
 48F:\muza\node_modules\css-tree\lib\lexer\index.js133574440154109660 0
 72F:\muza\node_modules\caniuse-lite\data\features\css-media-interaction.js133574440154399698 0
 58F:\muza\node_modules\type-fest\source\merge-exclusive.d.ts133574440114969796 0
@@ -993,6 +997,7 @@
 40F:\muza\node_modules\semver\package.json133574440130346905 0
 74F:\muza\node_modules\css-select\node_modules\domutils\lib\esm\helpers.d.ts133574440132020480 0
 63F:\muza\node_modules\type-fest\source\require-at-least-one.d.ts133574440120527307 0
+38F:\muza\images\demo-elegant\blog\4.jpg133384057441736353 0
 40F:\muza\node_modules\get-port\index.d.ts133574440085517923 0
 51F:\muza\node_modules\svgo\plugins\removeMetadata.js133574440140991618 0
 55F:\muza\node_modules\type-fest\source\set-optional.d.ts133574440121377648 0
@@ -1479,6 +1484,7 @@
 52F:\muza\node_modules\caniuse-lite\data\regions\MM.js133574440169150771 0
 72F:\muza\node_modules\@swc\helpers\_\_class_static_private_field_spec_set133574440157720631 1
 58F:\muza\node_modules\source-map\dist\source-map.min.js.map133574440120879392 0
+43F:\muza\images\demo-elegant\portfolio\4.jpg133384059632123805 0
 31F:\muza\node_modules\semver\bin133574440126391730 1
 35F:\muza\node_modules\semver\classes133574440127060675 1
 56F:\muza\node_modules\css-tree\lib\syntax\atrule\index.js133574440154152460 0
@@ -2512,6 +2518,7 @@
 61F:\muza\node_modules\css-select\lib\pseudo-selectors\index.js133574440111106734 0
 53F:\muza\node_modules\htmlnano\lib\presets\ampSafe.mjs133574440140937919 0
 56F:\muza\node_modules\css-tree\cjs\syntax\atrule\page.cjs133574440142955212 0
+43F:\muza\images\demo-elegant\portfolio\5.jpg133384059742025564 0
 58F:\muza\node_modules\@parcel\utils\test\DefaultMap.test.js133574440121975741 0
 49F:\muza\node_modules\htmlnano\lib\presets\max.cjs133574440104811637 0
 59F:\muza\node_modules\@swc\helpers\esm\_non_iterable_rest.js133574440149669675 0
@@ -2538,6 +2545,7 @@
 58F:\muza\node_modules\htmlnano\lib\modules\mergeScripts.mjs133574440142850912 0
 57F:\muza\node_modules\htmlnano\lib\modules\mergeStyles.cjs133574440107772615 0
 52F:\muza\node_modules\caniuse-lite\data\regions\BR.js133574440140805228 0
+49F:\muza\images\demo-elegant\portfolio\6-large.jpg133384060492153788 0
 57F:\muza\node_modules\htmlnano\lib\modules\mergeStyles.mjs133574440142911687 0
 47F:\muza\node_modules\@parcel\core\src\worker.js133574440159437510 0
 71F:\muza\node_modules\htmlnano\lib\modules\minifyConditionalComments.cjs133574440109448765 0
@@ -2887,6 +2895,7 @@
 79F:\muza\node_modules\css-select\node_modules\domutils\lib\esm\manipulation.d.ts133574440133681249 0
 56F:\muza\node_modules\@parcel\runtime-js\lib\helpers\node133574440130969722 1
 72F:\muza\node_modules\csso\node_modules\mdn-data\css\syntaxes.schema.json133574440117518433 0
+27F:\muza\images\demo-elegant133574443083594015 1
 73F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\LICENSE133574440084937339 0
 62F:\muza\node_modules\csso\node_modules\mdn-data\css\types.json133574440118183945 0
 51F:\muza\node_modules\@parcel\core\src\Validation.js133574440158940852 0
@@ -2901,6 +2910,7 @@
 75F:\muza\node_modules\csso\node_modules\mdn-data\api\inheritance.schema.json133574440105303957 0
 51F:\muza\node_modules\csso\node_modules\css-tree\cjs133574440146627124 1
 55F:\muza\node_modules\@swc\helpers\src\_create_class.mjs133574440164900849 0
+44F:\muza\images\demo-elegant\blog\9-large.jpg133384058350637543 0
 55F:\muza\images\intro\design-concepts\brutalist-dark.jpg133379702117606087 0
 78F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\types.ts133574440142561870 0
 45F:\muza\node_modules\css-tree\lib\syntax\node133574440161906176 1
@@ -3301,6 +3311,7 @@
 47F:\muza\node_modules\css-tree\lib\syntax\pseudo133574440154380401 1
 98F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133574440122631878 0
 63F:\muza\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133574440149206605 0
+38F:\muza\images\demo-elegant\blog\5.jpg133384057510761983 0
 91F:\muza\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\String.js133574440145731147 0
 57F:\muza\node_modules\css-tree\lib\syntax\scope\default.js133574440153157974 0
 96F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\media.js133574440141753207 0
@@ -4070,6 +4081,7 @@
 52F:\muza\node_modules\caniuse-lite\data\regions\NC.js133574440169540037 0
 52F:\muza\node_modules\caniuse-lite\data\regions\NE.js133574440169580066 0
 49F:\muza\node_modules\@parcel\workers\lib\types.js133574440130070869 0
+38F:\muza\images\demo-elegant\blog\8.jpg133384057716437482 0
 94F:\muza\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\1-mergeAtrule.js133574440086142122 0
 52F:\muza\node_modules\caniuse-lite\data\regions\NF.js133574440169600065 0
 52F:\muza\node_modules\caniuse-lite\data\regions\NO.js133574440169705871 0
@@ -4300,6 +4312,7 @@
 67F:\muza\node_modules\caniuse-lite\data\features\devicepixelratio.js133574440163810824 0
 86F:\muza\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\create.js133574440118529632 0
 57F:\muza\node_modules\caniuse-lite\data\features\dialog.js133574440163841237 0
+44F:\muza\images\demo-elegant\section-bg-4.jpg133384055137549036 0
 57F:\muza\node_modules\caniuse-lite\data\features\dnssec.js133574440164360282 0
 63F:\muza\node_modules\caniuse-lite\data\features\do-not-track.js133574440164370302 0
 73F:\muza\node_modules\caniuse-lite\data\features\document-currentscript.js133574440164410292 0
@@ -4425,6 +4438,7 @@
 67F:\muza\node_modules\caniuse-lite\data\features\meta-theme-color.js133574440169011983 0
 56F:\muza\node_modules\caniuse-lite\data\features\meter.js133574440169027008 0
 55F:\muza\node_modules\caniuse-lite\data\features\midi.js133574440169060582 0
+38F:\muza\images\demo-elegant\blog\1.jpg133384057230075064 0
 59F:\muza\node_modules\caniuse-lite\data\features\minmaxwh.js133574440169080597 0
 54F:\muza\node_modules\caniuse-lite\data\features\mp3.js133574440169220785 0
 60F:\muza\node_modules\caniuse-lite\data\features\mpeg-dash.js133574440169241038 0
@@ -4663,6 +4677,7 @@
 69F:\muza\node_modules\@swc\helpers\src\_class_apply_descriptor_set.mjs133574440164637018 0
 45F:\muza\node_modules\@swc\helpers\_\_defaults133574440159212525 1
 65F:\muza\node_modules\@swc\helpers\_\_define_enumerable_properties133574440159467079 1
+43F:\muza\images\demo-elegant\portfolio\6.jpg133384059817594337 0
 52F:\muza\node_modules\@swc\helpers\_\_define_property133574440159644139 1
 48F:\muza\node_modules\@swc\helpers\_\_export_star133574440159978746 1
 40F:\muza\node_modules\@swc\helpers\_\_get133574440160488160 1
@@ -4898,6 +4913,7 @@
 42F:\muza\node_modules\@swc\counter\index.js133574440089152544 0
 43F:\muza\node_modules\@swc\counter\README.md133574440091961781 0
 58F:\muza\node_modules\@swc\core-win32-x64-msvc\package.json133574440089069599 0
+44F:\muza\images\demo-elegant\section-bg-1.jpg133384054896031122 0
 69F:\muza\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node133574440165850980 0
 41F:\muza\node_modules\@swc\core\binding.js133574440088894901 0
 41F:\muza\node_modules\@swc\core\index.d.ts133574440113342865 0
@@ -4945,6 +4961,7 @@
 49F:\muza\node_modules\@parcel\workers\lib\child.js133574440102402825 0
 63F:\muza\node_modules\@parcel\workers\lib\core-worker.browser.js133574440112017697 0
 48F:\muza\node_modules\@parcel\workers\lib\process133574440124978461 1
+49F:\muza\images\demo-elegant\portfolio\3-large.jpg133384060423256432 0
 56F:\muza\node_modules\@parcel\workers\lib\web\WebChild.js133574440130630346 0
 45F:\muza\node_modules\@parcel\packager-svg\src133574440107897993 1
 57F:\muza\node_modules\@parcel\workers\lib\web\WebWorker.js133574440131289749 0
@@ -5031,6 +5048,7 @@
 63F:\muza\node_modules\@parcel\transformer-react-refresh-wrap\src133574440111747840 1
 70F:\muza\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs133574440145498015 0
 86F:\muza\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\.eslintrc.json133574440112671116 0
+47F:\muza\images\demo-elegant\section-image-1.jpg133384056725705762 0
 82F:\muza\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js133574440106271473 0
 71F:\muza\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers133574440103468486 1
 57F:\muza\node_modules\@parcel\transformer-raw\package.json133574440102998381 0
@@ -5247,6 +5265,7 @@
 74F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data133574440148336429 1
 46F:\muza\node_modules\@parcel\packager-wasm\src133574440115138127 1
 64F:\muza\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js133574440114038046 0
+43F:\muza\images\demo-elegant\team\team-1.jpg133384061113355755 0
 79F:\muza\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json133574440162728622 0
 49F:\muza\node_modules\@parcel\packager-svg\LICENSE133574440104457129 0
 60F:\muza\node_modules\@parcel\packager-svg\src\SVGPackager.js133574440108254137 0
@@ -5275,6 +5294,7 @@
 46F:\muza\node_modules\@parcel\packager-html\src133574440112435678 1
 62F:\muza\node_modules\@parcel\packager-html\lib\HTMLPackager.js133574440111721420 0
 45F:\muza\node_modules\@parcel\packager-css\lib133574440109478334 1
+43F:\muza\images\demo-elegant\portfolio\8.jpg133384059965345803 0
 54F:\muza\node_modules\@parcel\packager-css\package.json133574440113382879 0
 45F:\muza\node_modules\@parcel\packager-css\src133574440112032763 1
 88F:\muza\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\compile.d.ts.map133574440111838547 0
@@ -5464,6 +5484,7 @@
 88F:\muza\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\index.js133574440140268164 0
 83F:\muza\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule133574440146068142 1
 83F:\muza\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config133574440147669304 1
+43F:\muza\images\demo-elegant\portfolio\7.jpg133384059897739088 0
 81F:\muza\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node133574440147772090 1
 83F:\muza\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo133574440145608177 1
 99F:\muza\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133574440095431371 0
@@ -5755,6 +5776,7 @@
 100F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common\OffsetToLocation.js133574440143514648 0
 47F:\muza\node_modules\@parcel\markdown-ansi\test133574440094688470 1
 95F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common\SyntaxError.js133574440146210137 0
+38F:\muza\images\demo-elegant\blog\7.jpg133384057648531844 0
 95F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common\TokenStream.js133574440146602092 0
 89F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\dist\csstree.min.js133574440127429540 0
 83F:\muza\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data\index.js133574440134763972 0
@@ -5793,6 +5815,7 @@
 51F:\muza\node_modules\@parcel\cache\src\LMDBCache.js133574440114631620 0
 62F:\muza\node_modules\@parcel\namer-default\src\DefaultNamer.js133574440113826699 0
 46F:\muza\node_modules\@parcel\markdown-ansi\lib133574440090516183 1
+38F:\muza\images\demo-elegant\blog\9.jpg133384057794031673 0
 64F:\muza\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133574440095055292 0
 63F:\muza\node_modules\@parcel\markdown-ansi\src\markdown-ansi.js133574440093029106 0
 63F:\muza\node_modules\@parcel\markdown-ansi\lib\markdown-ansi.js133574440090754232 0
@@ -5800,6 +5823,7 @@
 43F:\muza\node_modules\@parcel\logger\LICENSE133574440116978395 0
 39F:\muza\node_modules\@parcel\logger\src133574440118226593 1
 55F:\muza\node_modules\@parcel\logger\test\Logger.test.js133574440119220084 0
+32F:\muza\images\demo-elegant\blog133574443083436019 1
 49F:\muza\node_modules\@parcel\logger\src\Logger.js133574440118378394 0
 39F:\muza\node_modules\@parcel\graph\test133574440116910672 1
 61F:\muza\node_modules\@parcel\graph\test\AdjacencyList.test.js133574440108679603 0
@@ -5899,6 +5923,7 @@
 78F:\muza\node_modules\@parcel\core\test\fixtures\duplicate-targets\package.json133574440161812093 0
 83F:\muza\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json133574440161488785 0
 83F:\muza\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json133574440161327137 0
+47F:\muza\images\demo-elegant\section-image-2.jpg133384056803116589 0
 81F:\muza\node_modules\@parcel\core\test\fixtures\config-plugin-not-found\.parcelrc133574440121237859 0
 41F:\muza\images\clients-logos\client-3.png133384025378570057 0
 47F:\muza\images\portfolio\masonry\projects-2.jpg133384775302832171 0
@@ -6013,6 +6038,7 @@
 48F:\muza\node_modules\@lezer\lr\dist\constants.js133574440091151277 0
 46F:\muza\node_modules\@lezer\lr\dist\index.d.ts133574440102140314 0
 47F:\muza\node_modules\@lezer\common\package.json133574440097490652 0
+44F:\muza\images\demo-elegant\section-bg-3.jpg133384055059796378 0
 50F:\muza\node_modules\@lezer\common\dist\index.d.ts133574440101827815 0
 38F:\muza\node_modules\@babel\code-frame133574440090551325 1
 55F:\muza\node_modules\@babel\helper-validator-identifier133574440097034446 1
@@ -6156,6 +6182,19 @@
 42F:\muza\Documentation\js\jquery.toc.min.js130374573865720000 0
 50F:\muza\images\full-width-images\section-bg-11.jpg133384765731592380 0
 49F:\muza\images\full-width-images\section-bg-9.jpg133384769429138877 0
+53F:\muza\images\demo-elegant\call-action-1-image-1.jpg133384055752879921 0
+53F:\muza\images\demo-elegant\call-action-1-image-2.jpg133384056309079974 0
+42F:\muza\images\demo-elegant\hs-image-1.jpg133384048746265163 0
+42F:\muza\images\demo-elegant\logo-white.svg133106712610960000 0
+37F:\muza\images\demo-elegant\portfolio133574443083549028 1
+44F:\muza\images\demo-elegant\section-bg-2.jpg133384054980554873 0
+32F:\muza\images\demo-elegant\team133574443083604016 1
+43F:\muza\images\demo-elegant\team\team-2.jpg133384061182355917 0
+43F:\muza\images\demo-elegant\portfolio\1.jpg133384059046426783 0
+43F:\muza\images\demo-elegant\portfolio\2.jpg133384059470739489 0
+49F:\muza\images\demo-elegant\portfolio\8-large.jpg133384060560612913 0
+38F:\muza\images\demo-elegant\blog\2.jpg133384057298277848 0
+38F:\muza\images\demo-elegant\blog\3.jpg133384057369331441 0
 41F:\muza\images\clients-logos\client-1.png133384025238049664 0
 41F:\muza\images\clients-logos\client-6.png133384025573668891 0
 38F:\muza\images\clients-logos\logo-grid133574427011346411 1
@@ -6202,7 +6241,7 @@
 35F:\muza\css\font-awesome-brands.css133365787037550713 0
 28F:\muza\css\owl.carousel.css130504214443350000 0
 25F:\muza\css\splitting.css132495647160780000 0
-21F:\muza\css\style.css133574415226704204 0
+21F:\muza\css\style.css133574443090450256 0
 27F:\muza\css\ytp-regular.eot130821165165910000 0
 28F:\muza\css\ytp-regular.woff130821165166400000 0
 24F:\muza\css\YTPlayer.css133359094752098597 0
