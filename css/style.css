@@ -150,6 +150,19 @@
 -------------------------------------------------------------------*/
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Webfont: Zamora-Regular */
+@font-face {
+    font-family: 'Zamora';
+    src: url('Zamora.woff2') format('woff2'),
+        /* Modern Browsers */
+        url('Zamora.otf') format('opentype');
+    /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
 /* ==============================
    Icon fonts
    ============================== */
@@ -251,6 +264,10 @@ main {
 
 iframe {
     border: none;
+}
+
+.font-alternate {
+    font-family: 'Zamora';
 }
 
 a,
