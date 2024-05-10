@@ -193,6 +193,10 @@
     --color-gray-light-4: #d5d5d5;
     --color-gray-light-5: #ccc;
     --color-gray-light-6: #bbb;
+    --accent-1a: #a684f5;
+    --accent-1b: #c8c8f5;
+    --accent-2a: #97b6f5;
+    --accent-2b: #c9f1f3;
     --color-dark-mode-gray-1: rgba(255, 255, 255, 0.7);
     --color-dark-mode-gray-2: rgba(255, 255, 255, 0.1275);
     --color-primary-1: #4567ed;
