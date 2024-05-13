@@ -1510,7 +1510,7 @@ hr.thick {
     -webkit-text-fill-color: var(--color-primary-1);
 }
 
-.link-circle {
+/* .link-circle {
     padding-right: 22px;
 }
 
@@ -1571,6 +1571,73 @@ hr.thick {
 
 .link-circle-1 .link-strong {
     padding: 24px 0;
+} */
+
+.link-circle {
+    padding-right: 22px;
+}
+
+.link-circle:before {
+    content: "";
+    position: absolute;
+    top: calc(50% - 2px);
+    right: 7px;
+    transform: translate3d(0, -50%, 0.001px);
+    display: block;
+    width: 51px;
+    height: 51px;
+    border: 1px solid currentColor;
+    border-radius: 50%;
+    transition: all 0.5s var(--ease-elastic-2);
+}
+
+.link-circle:hover:before {
+    transform: translate3d(0, -50%, 0.001px) scale(1.1);
+}
+
+.link-circle .link-strong {
+    padding: 20px 0;
+}
+
+.link-circle-1 {
+    margin-left: -7px;
+    padding-left: 27px;
+}
+
+.link-circle-1:before {
+    content: "";
+    position: absolute;
+    top: calc(50%);
+    left: 7px;
+    transform: translate3d(0, -50%, 0.001px);
+    display: block;
+    width: 60px;
+    height: 60px;
+    border: none;
+    opacity: 0.15;
+    transition: all 0.5s var(--ease-elastic-2);
+}
+
+.link-circle-1 .link-strong-hovered {
+    left: 27px;
+}
+
+.light-content .link-circle-1:before {
+    border-color: #fff;
+    opacity: 0.25;
+}
+
+.link-circle-1:hover:before {
+    transform: translate3d(0, -50%, 0.001px) scale(0.88);
+}
+
+.link-circle-1 .link-strong {
+    padding: 24px 0;
+}
+
+.link-circle:before,
+.link-circle-1:before {
+    content: url('/images/teste_1.svg')
 }
 
 /* ==============================
