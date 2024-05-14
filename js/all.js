@@ -2014,22 +2014,40 @@ $(document).ready(function () {
 
 /*=============== EMAIL FORMS ===============*/
 
-const form = document.querySelector("form");
+// const form = document.querySelector("form");
 
-function sendEmail() {
-  Email.send({
-    Host: "smtp.elasticemail.com",
-    Username: "studiomuza@outlook.com.br",
-    Password: "63E159BBE62BCAAF09D4E7890672EB135E9E",
-    To: "studiomuza@outlook.com.br",
-    From: "studiomuza@outlook.com.br",
-    Subject: "This is the subject",
-    Body: "And this is the body",
-  }).then((message) => alert(message));
-}
+// function sendEmail() {
+//   Email.send({
+//     Host: "smtp.elasticemail.com",
+//     Username: "studiomuza@outlook.com.br",
+//     Password: "63E159BBE62BCAAF09D4E7890672EB135E9E",
+//     To: "studiomuza@outlook.com.br",
+//     From: "muza@studiomuza.co",
+//     Subject: "This is the subject",
+//     Body: "And this is the body",
+//   }).then((message) => alert(message));
+// }
 
-form.addEventListener("submit", (e) => {
+// form.addEventListener("submit", (e) => {
+//   e.preventDefault();
+
+//   sendEmail();
+// });
+
+let btn = document.getElementById("submit_btn");
+btn.addEventListener("click", function (e) {
   e.preventDefault();
+  let name = document.getElementById("name").value;
+  let email = document.getElementById("email").value;
+  let message = document.getElementById("message").value;
+  let body =
+    "name: " + name + "<br> email: " + email + "<br> message: " + message;
 
-  sendEmail();
+  Email.send({
+    SecureToken: "3604e41a-ca2a-4d5c-981d-604c418a0b87",
+    To: "studiomuza@outlook.com.br",
+    From: "muza@studiomuza.co",
+    Subject: "contact message",
+    Body: body,
+  }).then((message) => alert(message));
 });
