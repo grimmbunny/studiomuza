@@ -2014,20 +2014,22 @@ $(document).ready(function () {
 
 /*=============== EMAIL FORMS ===============*/
 
-let btn = document.getElementById("submit_btn");
-btn.addEventListener("click", function (e) {
-  e.preventDefault();
-  let name = document.getElementById("name").value;
-  let email = document.getElementById("email").value;
-  let message = document.getElementById("message").value;
-  let body =
-    "name: " + name + "<br> email: " + email + "<br> message: " + message;
+const form = document.querySelector("form");
 
+function sendEmail() {
   Email.send({
-    SecureToken: "665a0f1c-e08d-4b2b-a6ca-92af7964b37f",
+    Host: "smtp.elasticemail.com",
+    Username: "studiomuza@outlook.com.br",
+    Password: "63E159BBE62BCAAF09D4E7890672EB135E9E",
     To: "studiomuza@outlook.com.br",
     From: "studiomuza@outlook.com.br",
     Subject: "This is the subject",
     Body: "And this is the body",
   }).then((message) => alert(message));
+}
+
+form.addEventListener("submit", (e) => {
+  e.preventDefault();
+
+  sendEmail();
 });
