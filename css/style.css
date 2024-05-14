@@ -6810,7 +6810,7 @@ img.services-image {
     margin: 0 auto 25px;
     width: 86px;
     height: 86px;
-    font-size: 64px;
+    font-size: 30px;
     background: var(--color-gray-light-2);
     border-radius: 50%;
     isolation: isolate;
