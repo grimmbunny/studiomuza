@@ -2044,9 +2044,9 @@ btn.addEventListener("click", function (e) {
     "name: " + name + "<br> email: " + email + "<br> message: " + message;
 
   Email.send({
-    SecureToken: "3604e41a-ca2a-4d5c-981d-604c418a0b87",
+    SecureToken: "66db2523-a992-41a7-a75d-f3f0a2a2454f",
     To: "studiomuza@outlook.com.br",
-    From: "muza@studiomuza.co",
+    From: "studiomuza@outlook.com.br",
     Subject: "contact message",
     Body: body,
   }).then((message) => alert(message));
