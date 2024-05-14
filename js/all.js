@@ -2011,3 +2011,23 @@ $(document).ready(function () {
     });
   })();
 });
+
+/*=============== EMAIL FORMS ===============*/
+
+let btn = document.getElementById("submit_btn");
+btn.addEventListener("click", function (e) {
+  e.preventDefault();
+  let name = document.getElementById("name").value;
+  let email = document.getElementById("email").value;
+  let message = document.getElementById("message").value;
+  let body =
+    "name: " + name + "<br> email: " + email + "<br> message: " + message;
+
+  Email.send({
+    SecureToken: "665a0f1c-e08d-4b2b-a6ca-92af7964b37f",
+    To: "studiomuza@outlook.com.br",
+    From: "studiomuza@outlook.com.br",
+    Subject: "This is the subject",
+    Body: "And this is the body",
+  }).then((message) => alert(message));
+});
